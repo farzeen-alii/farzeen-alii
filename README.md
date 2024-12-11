@@ -37,6 +37,5 @@
 
 <br/>
 <hr/>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farzeen-alii)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzeen-alii&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-alii&hide_progress=true) -->
